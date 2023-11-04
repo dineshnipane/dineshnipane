@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh_K_Nipane</h1>
 <h3 align="center">Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F60b0d504359505eef5dc.s3.amazonaws.com%2Fi-have-a-very-particular-set-of-skills-gif.html&psig=AOvVaw0soZM9yvDIOEdDnsHrDCj0&ust=1699190881801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD93bm5qoIDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 📫 How to reach me **dineshnipane@gmail.com**
 
