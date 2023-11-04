@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/dineshnipane/dineshnipane/blob/main/data%20design%202.webp)
 <h1 align="center">Hi 👋, I'm Dinesh_K_Nipane</h1>
 <h3 align="center">Data Analyst</h3>
 
