@@ -1,4 +1,4 @@
-![logo](https://github.com/dineshnipane/dineshnipane/commit/aae6485f0c60046b8011b3142cad49558c08c1b7)
+![logo]()
 <h1 align="center">Hi 👋, I'm Dinesh_K_Nipane</h1>
 <h3 align="center">Data Analyst</h3>
 
