@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Dinesh_K_Nipane</h1>
 <h3 align="center">Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif+for+github&sca_esv=579440648&rlz=1C1RXQR_en-GBIN1081IN1081&tbm=isch&sxsrf=AM9HkKmG0OlU6WoSUKHxw561qt2fxK1tGQ:1699101842341&source=lnms&sa=X&ved=2ahUKEwj8zv_Nr6qCAxWZf94KHS9JD_4Q_AUoAXoECAIQAw&biw=1360&bih=651&dpr=1#imgrc=TU6M-pr48V2rEM">
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1uzDQMHpSpJKajZaOThOfW&ust=1699189536134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCk0ri0qoIDFQAAAAAdAAAAABAE">
 - 📫 How to reach me **dineshnipane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
