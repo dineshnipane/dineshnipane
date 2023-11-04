@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/dineshnipane/Dinesh_K_Nipane/blob/main/logo%20design.png)
 <h1 align="center">Hi 👋, I'm Dinesh_K_Nipane</h1>
 <h3 align="center">Data Analyst</h3>
 
